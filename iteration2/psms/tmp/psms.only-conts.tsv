@@ -1,0 +1,15 @@
+#SpecFile	Title	Peptide	Protein	Hyperscore	EValue
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=7685	GGSGGSYGGGGSGGGYGGGSGSR	contaminant|sp|K1C9_HUMAN|	36.5	2.5e-08
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=92288	LGEHNLDVLEGNEKFLNAA	contaminant|sp|TRYP_PIG|	42.1	7.9e-06
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=86079	LGEHNLDVLEGNEKFLN	contaminant|sp|TRYP_PIG|	38.8	0.00018
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=86292	LGEHNLDVLEGNEKFLN	contaminant|sp|TRYP_PIG|	38.7	0.00019
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=128436	NYSPYYNTLDDLKDKLVDLTVGNNK	contaminant|sp|K1C9_HUMAN|	43.1	3e-04
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=41967	FLEKKNKVLKTK	contaminant|sp|K22E_HUMAN|	31.4	0.00065
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=41967	FLEKKNKVLKTK	contaminant|sp|K2C1_HUMAN|	31.4	0.00065
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=112607	SLDLDSLLAEVK	contaminant|sp|K2C1_HUMAN|	39.2	0.0011
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=36095	VKALEEANNDLENK	contaminant|sp|K1C9_HUMAN|	31.7	0.0015
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=8490	FSSSSGYGGGSSR	contaminant|sp|K1C9_HUMAN|	25.5	0.0021
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=108560	VDLLNKELEFLK	contaminant|sp|K22E_HUMAN|	29.3	0.0036
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=28995	VATVSLPR	contaminant|sp|TRYP_PIG|	30.7	0.042
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=53952	VLDELTLTK	contaminant|sp|K1C15_SHEEP|	29.4	0.051
+sample/Run1_U4_2000ng.0free.mgf	controllerType=0 controllerNumber=1 scan=53952	VLDELTLTK	contaminant|sp|K1C10_HUMAN|	29.4	0.051
